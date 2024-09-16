@@ -1,0 +1,14 @@
+[package]
+name = "project_euler"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "problem_1"
+path = "src/problem_1.rs"
+
+[[bin]]
+name = "problem_2"
+path = "src/problem_2.rs"
