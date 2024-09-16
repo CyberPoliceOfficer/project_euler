@@ -1,0 +1,1 @@
+Solutions for the first 100 Project Euler Problems. After that I'll have to commit in a private repo do comply with the rules.
